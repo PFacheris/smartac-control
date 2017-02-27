@@ -1,1 +1,4 @@
 smartac_control/config.py
+smartac_control/__pycache__
+*.pyc
+venv
